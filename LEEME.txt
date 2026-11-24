@@ -1,0 +1,31 @@
+RUMBO A GALÁPAGOS - App para registrar el avance de Samira
+===========================================================
+
+CÓMO OBTENER LA APK (elige una opción)
+
+Opción A - Android Studio (la más fácil)
+1. Instala Android Studio (gratis): developer.android.com/studio
+2. Descomprime esta carpeta y ábrela con "File > Open" (selecciona la carpeta RumboGalapagos).
+3. Espera a que termine de sincronizar (la primera vez descarga cosas, tarda unos minutos).
+4. Menú "Build > Build App Bundle(s) / APK(s) > Build APK(s)".
+5. La APK queda en: app/build/outputs/apk/debug/app-debug.apk
+6. Pásala al celular (cable, Drive o WhatsApp) e instálala. Android pedirá
+   permitir "instalar apps de origen desconocido": acéptalo para esta APK.
+
+Opción B - GitHub (sin instalar nada en tu computadora)
+1. Sube esta carpeta a un repositorio de GitHub.
+2. GitHub construye la APK solo (pestaña "Actions" > "Construir APK").
+3. Al terminar, descarga "RumboGalapagos-apk" desde esa misma página.
+
+CÓMO SE USA
+- Primera vez: entra a "Ajustes" y escribe el correo Gmail de Samira.
+  Ahí también puedes cambiar los premios, la meta de stickers (50) y las casillas (24).
+- Cada domingo: "Registrar el domingo" > semana, stickers, nota mejorada,
+  libro terminado y cuadritos de lectura > "Guardar y celebrar".
+- La app hace la animación (confeti, tortuga, premio ganado) para mostrársela a Samira.
+- "Enviar felicitación por Gmail" abre Gmail con el correo ya escrito:
+  felicitación + frase motivadora. Solo revisas y tocas Enviar.
+- "Copiar respaldo" guarda tus datos por si cambias de celular.
+  "Restaurar respaldo" los vuelve a cargar.
+
+Los datos se guardan solo en tu celular.
